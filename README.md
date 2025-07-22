@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">Felipe Soares</h1>
 
-<!--
-**fsoares-dev/fsoares-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <h2>Desenvolvedor Full-stack Júnior</h2><br/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 Contato
+
+- ✉️ E-mail: statusbike13@gmail.com  
+- 💻 GitHub: [github.com/fsoares-dev](https://github.com/fsoares-dev)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fsoares-dev&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+### 🔥 GitHub Atividade em Alta
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fsoares-dev&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
+
+### 📊 Linguagens Mais Usadas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsoares-dev&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+### 💡 Sobre Mim
+
+- 🌱 Atualmente estudando Java + Angular
+- 💼 Buscando oportunidades como desenvolvedor full-stack júnior
+- 📌 Foco em aplicações web modernas e responsivas
+- 🔍 Sempre aprendendo e explorando novas tecnologias
+
+---
