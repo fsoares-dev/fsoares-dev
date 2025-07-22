@@ -49,4 +49,4 @@
 - 📌 Foco em aplicações web modernas e responsivas
 - 🔍 Sempre aprendendo e explorando novas tecnologias
 
----
+--- 
