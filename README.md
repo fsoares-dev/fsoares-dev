@@ -11,10 +11,12 @@
 
 ---
 
-### 📬 Contato
+### 💡 Sobre Mim
 
-- ✉️ E-mail: fsoares.dev1@gmail.com 
-- 💻 Linkedin: [[github.com/fsoares-dev](https://www.linkedin.com/in/felipe-soares-5a79b7371/)]
+- 🌱 Atualmente estudando Java + Angular
+- 💼 Buscando oportunidades como desenvolvedor full-stack júnior
+- 📌 Foco em aplicações web modernas e responsivas
+- 🔍 Sempre aprendendo e explorando novas tecnologias
 
 ---
 
@@ -34,11 +36,9 @@
 
 ---
 
-### 💡 Sobre Mim
+### 📬 Contato
 
-- 🌱 Atualmente estudando Java + Angular
-- 💼 Buscando oportunidades como desenvolvedor full-stack júnior
-- 📌 Foco em aplicações web modernas e responsivas
-- 🔍 Sempre aprendendo e explorando novas tecnologias
+- ✉️ E-mail: fsoares.dev1@gmail.com 
+- 💻 Linkedin: [[Linkedin/Felipe Soares](https://www.linkedin.com/in/felipe-soares-5a79b7371/)]
 
 --- 
