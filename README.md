@@ -38,7 +38,7 @@
 
 ### 📬 Contato
 
-- ✉️ E-mail: [fsoares.dev1@gmail.com]  
+- ✉️ E-mail: fsoares.dev1@gmail.com
 - 🌐 Linkedin: [Linkedin/Felipe Soares](https://www.linkedin.com/in/felipe-soares-5a79b7371/)  
 - 📸 Instagram: [instagram.com/fsoares.dev1](https://www.instagram.com/fsoares.dev1)
 
