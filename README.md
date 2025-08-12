@@ -13,8 +13,8 @@
 
 ### 📬 Contato
 
-- ✉️ E-mail: statusbike13@gmail.com  
-- 💻 GitHub: [github.com/fsoares-dev](https://github.com/fsoares-dev)
+- ✉️ E-mail: fsoares.dev1@gmail.com 
+- 💻 Linkedin: [[github.com/fsoares-dev](https://www.linkedin.com/in/felipe-soares-5a79b7371/)]
 
 ---
 
@@ -22,14 +22,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fsoares-dev&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
----
-
-### 🔥 GitHub Atividade em Alta
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fsoares-dev&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
