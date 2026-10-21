@@ -1,22 +1,32 @@
 <h1 align="center">Felipe Soares</h1>
 
 <p align="center">
-  <b>Desenvolvedor Full-stack Júnior</b><br/>
+  <b>Engenheiro de Software Full-Stack | Entusiasta em IA & Arquitetura de Sistemas</b><br/>
+</p>
+
+<p align="center">
+  <!-- Backend & BD -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <!-- Frontend & Mobile -->
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <!-- Infra & Tools -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 ---
 
 ### 💡 Sobre Mim
 
-- 🌱 Atualmente estudando Java + Angular
-- 💼 Buscando oportunidades como desenvolvedor full-stack júnior
-- 📌 Foco em aplicações web modernas e responsivas
-- 🔍 Sempre aprendendo e explorando novas tecnologias
+  Estudante de Ciência da Computação (FURB) e Desenvolvedor Full-Stack. Possuo forte inclinação para o back-end, arquitetura de sistemas e integração de Inteligência Artificial. 
+
+- 🚀 **O que eu faço:** Desenvolvimento de APIs RESTful (Spring Boot / FastAPI), interfaces web/mobile e orquestração de agentes LLM usando metodologias como Spec-Driven Development.
+- 📚 **Foco atual:** Arquitetura de microsserviços, Prompt Engineering para sistemas multi-agentes e aprofundamento em Python para IA.
 
 ---
 
